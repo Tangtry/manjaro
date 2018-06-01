@@ -1,5 +1,10 @@
 # manjaro
 
+## Installation
+choose "/boot/efi" and don't forget to check "boot" and "esp" option.
+Then we can use "bootice" in windows to edit the boot menu
+
+
 ## Nvidia
 from the official website, 
 first detect the vedio card information
