@@ -18,3 +18,9 @@ And use code below to get into nvidia settings
 ```
 optirun -b none nvidia-settings -c :8
 ```
+
+## Screenfetch
+To satisfy your ridiculous showing off wish
+```
+screenfetch -A 'Arch Linux'
+```
