@@ -29,3 +29,10 @@ To satisfy your ridiculous showing off wish
 ```
 screenfetch -A 'Arch Linux'
 ```
+
+## Themes directory
+/usr/share/themes
+some themes need permissions
+```
+sudo chmod 777 file
+```
